@@ -8,39 +8,41 @@
     <title>Rocio-Galvan-Portfolio</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
     <link rel="stylesheet" href="./assets/style.css">
+    <script src="./bulma.js"></script>
 
 </head>
 
 <body>
     <!-- Nav Bar -->
     <nav class="navbar has-background-primary-dark  p-5" role="navigation" aria-label="main navigation">
-        <div class="navbar-item">
-            <div class="navbar-item title is-1">
-                <p>Rocio Galvan</p>
+        <div class="navbar-brand">
+            <div class="navbar-item">
+                <div class="navbar-item title is-1">
+                    <p>Rocio Galvan</p>
+                </div>
+                <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </a>
             </div>
-
-            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false"
-                data-target="navbarBasicExample">
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-            </a>
         </div>
-        <div id="navbarBasicExample" class="navbar-menu">
-            <div class="navbar-end subtitle is-4">
-                <a href="#about-me" class="navbar-item">
+        
+            <div class="navbar-menu" id="navMenu">
+                <div class="navbar-end subtitle is-4">
+                    <a href="#about-me" class="navbar-item">
                     About Me
-                </a>
+                    </a>
 
-                <a href="#projects" class="navbar-item">
+                    <a href="#projects" class="navbar-item">
                     Projects
-                </a>
+                    </a>
 
-                <a href="#contact-me" class="navbar-item">
+                    <a href="#contact-me" class="navbar-item">
                     Contact
-                </a>
+                    </a>
+                </div>
             </div>
-        </div>
     </nav>
     
     <!-- About me -->
