@@ -4,19 +4,26 @@
 
 [link to GitHub repository](https://github.com/Ro-Galvan/portfolio)
 
-
+# Table of Contents
+  - [Description](#description)
+  - [Demo](#demo)
+  - [License](#license)
+  - [Questions](#questions)
 
 # Description
 
-I wanted to challenge myself and start my portfolio over again. This time I used Bulma library and did all the styling in HTML as a result of that.
+Using Bulma library I created my portfolio and have showcased 4 of my repos. You can click on the main picture to view the deployed link and there is also a link that will take you to the GitHub repo. At the bottom of my delpoyed website you can find links to my GitHub profile, LinkedIn profile and a downloadable PDF of my resume. 
+
+# Demo
 
 
-Check out my old porfolio:
+# License
+ MIT
 
-[link to live website](https://ro-galvan.github.io/rocio-galvan-portfolio/)
 
-[link to GitHub repository](https://github.com/Ro-Galvan/rocio-galvan-portfolio)
-
-# Visual
-
-![Website Overview](./assets/portfolio-pic.png)
+# Questions
+  Link to my github:
+  https://github.com/Ro-Galvan
+ 
+  Contact me:
+  https://www.linkedin.com/in/rocio-galvan/ 
