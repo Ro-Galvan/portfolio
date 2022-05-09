@@ -26,4 +26,5 @@ https://user-images.githubusercontent.com/97912154/162858203-8a80c64d-7fa1-4615-
   https://github.com/Ro-Galvan
  
   Contact me:
-  https://www.linkedin.com/in/rocio-galvan/ 
+  web.dev.rocio@gmail.com
+  757-744-9779
