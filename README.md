@@ -24,8 +24,3 @@ https://user-images.githubusercontent.com/97912154/162858203-8a80c64d-7fa1-4615-
 # Questions
   Link to my github:
   https://github.com/Ro-Galvan
- 
-  Contact me:
-  web.dev.rocio@gmail.com
-  
-  757-744-9779
